@@ -1,0 +1,3 @@
+C:/Proga for BSU/Extra-tasks-for-BSU/quadratnoe uravnenie/cmake-build-debug/CMakeFiles/quadratnoe_uravnenie.dir
+C:/Proga for BSU/Extra-tasks-for-BSU/quadratnoe uravnenie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Proga for BSU/Extra-tasks-for-BSU/quadratnoe uravnenie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
