@@ -29,6 +29,6 @@ int main() {
         cout << x1 <<endl;
         cout << x2;
     }
-
+return 0;
 
 }
